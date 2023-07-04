@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dzqlBRPKFYWiprRsHYZQC9GQfHLMWyEZI5lp4xmvH1E=",
+  "Source": "NaBrasa-Service",
+  "BasePath": "_content/NaBrasa-Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
